@@ -1,0 +1,6 @@
+{
+    "source_dirs":["app","src","./**"],
+    "include_dirs":["src"],
+    "mod_dirs":["src"],
+    "incl_suffixes": [".mod"]
+}
